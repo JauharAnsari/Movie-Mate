@@ -58,8 +58,8 @@ Kotlin
 
 
 
-## Screenshots
-
-![App Screenshot](https://image2url.com/images/1761388213030-79dcac74-e676-4241-b470-bc95baeae142.jpg)
-
+<p align="center">
+  <img src="https://image2url.com/images/1761388213030-79dcac74-e676-4241-b470-bc95baeae142.jpg" width="250">
+  <img src="[https://image2url.com/images/another_image.jpg](https://image2url.com/images/1761388466432-ab2baf7d-b675-442e-b2de-c8d9bf55b09d.jpg)" width="250">
+</p>
 
